@@ -1,6 +1,6 @@
 # SparkMango
 
-![SparkMango Logo](brand/logomark.png)
+![SparkMango Logo](brand/logo.png)
 
 A Model Context Protocol (MCP) server that converts Solidity bytecode into a functional server implementation.
 
