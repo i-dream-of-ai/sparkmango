@@ -1,0 +1,6 @@
+click==8.1.7
+web3==6.11.1
+py-solc-x==1.1.1
+mpyc==0.8.0
+pydantic==2.5.2
+python-dotenv==1.0.0 
